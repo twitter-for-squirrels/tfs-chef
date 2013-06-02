@@ -2,7 +2,7 @@ name "db"
 description "db server"
 all_env = [
   "role[base]",
-  "recipe[mysql::server]"
+  "recipe[mysql-tfs::server]"
 ]
 
 run_list(all_env)
