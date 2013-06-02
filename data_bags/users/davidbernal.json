@@ -1,6 +1,6 @@
 {
     "id": "dbernal",
-    "ssh_keys": "ssh-rsa AAAAB3NzaC1yc2EAAAABIwAAAQEAtCz6WuQE59c3ClRu8mQ/Pcu6eZc44C/EiIm1Fp7DkC5etnHwX4CC35R/hcul1BJLbuhwGvmzWDkzKUbyH1++wIs+tlW04L20kY4FVXARkbzkJneC7KfXyDJhCY0mpA3BI+3IQYZ8vo/qQEAPYCCc/dXofO9I8YvwSeXsPeLJFKq+0yWxDlnBQQuqswUXyDj6dwnDdGfCbYcCFWzA/g/Ni9U5GqWgvXBbXZvsGldxpI1uspX/1ifYsUTMwL7Q62U6b1b2XP9i/xo3p9//8qhM+6U1E1BUpTwERpNBEtEHkfZ1OJQKfoLtg+eVG0VxHjc6ptLDdM4bQ+iRVqsCJqxJNw== david@davidthomasbernal.com"
+    "ssh_keys": "ssh-rsa AAAAB3NzaC1yc2EAAAABIwAAAQEAtCz6WuQE59c3ClRu8mQ/Pcu6eZc44C/EiIm1Fp7DkC5etnHwX4CC35R/hcul1BJLbuhwGvmzWDkzKUbyH1++wIs+tlW04L20kY4FVXARkbzkJneC7KfXyDJhCY0mpA3BI+3IQYZ8vo/qQEAPYCCc/dXofO9I8YvwSeXsPeLJFKq+0yWxDlnBQQuqswUXyDj6dwnDdGfCbYcCFWzA/g/Ni9U5GqWgvXBbXZvsGldxpI1uspX/1ifYsUTMwL7Q62U6b1b2XP9i/xo3p9//8qhM+6U1E1BUpTwERpNBEtEHkfZ1OJQKfoLtg+eVG0VxHjc6ptLDdM4bQ+iRVqsCJqxJNw== david@davidthomasbernal.com",
     "groups": [ "sysadmin", "dba", "devops" ],
     "uid": 2001,
     "shell": "\/bin\/bash"
