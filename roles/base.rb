@@ -1,6 +1,7 @@
 name "base"
 description "Base role applied to all nodes."
 run_list(
+  "recipe[chef-client]",
   "recipe[users::sysadmins]",
   "recipe[sudo]",
   "recipe[apt]",
