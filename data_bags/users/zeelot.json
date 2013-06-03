@@ -1,0 +1,7 @@
+{
+    "id": "zeelot",
+    "ssh_keys": "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDFhZNy/x4oOI5mB3bjfYP6KSd0fgDqrOKG2wLM35XJoHiGtnEB2RIqzOF04Cww1fq0g5L1VFDNZ8v5lmR9aIcNuvK8LBCXcp4vGjkIlQsd489Ep6feDNrtvZcYT9OmrhKeww2DZYG3azsOzhBlZEameEbNgS0bgdIJirn9rkHPOjnjwspqRt+hi9R0SaES+dHEYTY/kTFjl51T+o3uUIGUI4Y0L5pANZB4JiQgJFch9JgmOdUlMBv5EdEc+aLEsvCkM/3SAmrfIMyY6HoYRYt6t9Q2NYC71QIGRF0LF/gaoTXtv90C68FTPMiH1MZZhX/BgLBCrBoZK/PgPJY/RA+j zeelot3k@gmail.com",
+    "groups": [ "sysadmin", "dba", "devops" ],
+    "uid": 2002,
+    "shell": "\/bin\/bash"
+}
