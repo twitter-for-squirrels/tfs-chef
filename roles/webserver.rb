@@ -6,7 +6,8 @@ all_env = [
   "recipe[php::module_mysql]",
   "recipe[apache2]",
   "recipe[apache2::mod_php5]",
-  "recipe[apache2::mod_rewrite]"
+  "recipe[apache2::mod_rewrite]",
+  "recipe[tfs-app::default]"
 ]
 
 run_list(all_env)

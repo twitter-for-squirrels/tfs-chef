@@ -10,11 +10,11 @@
 
 deploy_branch "/var/www/tfs" do
 	repo "https://github.com/twitter-for-squirrels/twitter-for-squirrels.git"
-	migrate false
-
+	enable_submodules true
 	branch "master"
 
-	enable_submodules true
+	migrate true
+	migrate_command "minion migrations::run"
 
 	notifies :restart, "service[apache]"
 end
