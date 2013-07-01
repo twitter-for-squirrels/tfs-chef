@@ -39,7 +39,7 @@ deploy_branch "/var/www/tfs" do
 	end
 
 	migrate true
-	migration_command "./minion migrations::run"
+	migration_command "./minion migrations:run"
 
 	purge_before_symlink([])
   create_dirs_before_symlink([])
