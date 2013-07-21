@@ -10,7 +10,7 @@
 
 secrets = Chef::EncryptedDataBagItem.load("secrets", "mysql")
 
-MYSQL_USER = "debian"
+MYSQL_USER = "app"
 
 deploy_branch "/var/www/tfs" do
 	action :force_deploy
