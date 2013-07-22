@@ -17,5 +17,8 @@ override_attributes(
       :users => ["ubuntu"],
       :passwordless => true
     }
+  },
+  :build_essential => {
+    :compiletime => true
   }
 )
