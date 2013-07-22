@@ -3,8 +3,8 @@ description "Base role applied to all nodes."
 run_list(
   "recipe[chef-client]",
   "recipe[users::sysadmins]",
-  "recipe[apt]",
   "recipe[sudo]",
+  "recipe[apt]",
   "recipe[git]",
   "recipe[build-essential]",
   "recipe[vim]",
