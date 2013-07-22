@@ -21,6 +21,7 @@
 #
 
 node.set['build_essential']['compiletime'] = true
+include_recipe "apt"
 include_recipe "build-essential"
 include_recipe "mysql::client"
 
